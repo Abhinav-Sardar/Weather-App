@@ -1,0 +1,42 @@
+body.hot {
+    background-color: rgb(235, 147, 6) ; 
+  }
+  body.cold {
+    background-color: skyblue ; 
+  }
+  *{
+    color:white ; 
+  }
+  input{
+   height:50px ; 
+    width:400px ;
+    font-size:22px ; 
+    border-radius: 20px ; 
+    border: 0 ;
+    padding:5px ;  
+    color:black ; 
+  }
+  input::placeholder{
+    color:gray ; 
+  }
+  input:focus{ 
+    outline: 0 ; 
+   }
+  #btn{
+    height:40px ;
+    width:120px ; 
+    margin-top: 20px ; 
+    background-color: black ; 
+    border-radius:10px;
+    border:0 ; 
+  }
+  img.loader {
+    height:100px ; 
+    width:100px ; 
+    border-radius: 50%; 
+    background-color: blue ; 
+    display: none;
+  }
+  blabla {
+    color:rgb(0, 3, 151)  ;
+  }
