@@ -1,4 +1,4 @@
-const API_KEY = "08472e9ee3e7baf68dd18b56d0c9ad2b" ; 
+
 const spinner = document.querySelector('.spinner');
 let center = document.querySelector('center') ; 
 const dataContainer = document.getElementById('data')
